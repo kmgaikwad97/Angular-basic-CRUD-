@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "kshitij",
+      "mobile": "9664359608",
+      "email": "kmgaikwad97@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "vicky",
+      "mobile": "1203928374",
+      "email": "kmgaikwad7@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "ashish",
+      "mobile": "9728282828",
+      "email": "ashish@gmail.com",
+      "password": "12434",
+      "id": 3
+    },
+    {
+      "name": "vikas",
+      "mobile": "9292929292",
+      "email": "vikas@gmail.com",
+      "password": "121212",
+      "id": 5
+    }
+  ]
+}
