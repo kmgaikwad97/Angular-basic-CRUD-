@@ -1,5 +1,5 @@
-# Angular-basic-CRUD-
-Basic CRUD Operation using **Angular 13**   🚀
+# Angular-basic-CRUD- 💻
+Basic CRUD Operation using **Angular 13** 🚀   
 A simple Angular application demonstrating **CRUD** (**Create, Read, Update, Delete**) operations.
 
 ## Overview ℹ️
