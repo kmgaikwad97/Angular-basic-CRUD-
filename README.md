@@ -1,27 +1,81 @@
-# Crud
+# Angular-basic-CRUD-
+Basic CRUD Operation using **Angular 13**
+A simple Angular application demonstrating **CRUD** (**Create, Read, Update, Delete**) operations.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+## Overview
+This project aims to illustrate a basic CRUD application built with Angular 13. It enables users to perform essential operations on user data, such as adding, updating, and deleting user information.
 
-## Development server
+## Features
+>Create: Add new users with their name, mobile number, email, and password.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+>Read: Display a table showing all existing users with their details.
 
-## Code scaffolding
+>Update: Edit and update user information.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+>Delete: Remove users from the list.
 
-## Build
+## Getting Started
+### Prerequisites
+Node.js installed on your machine(**v16**).  
+The default color is `#ffffff` & `#0000000`
+Angular CLI(**v13.0.4**)
+Installation
+Clone this repository.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+bash/Terminal
 
-## Running unit tests
+Copy code   
+`git clone https://github.com/kmgaikwad97/Angular-basic-CRUD-.git`  
+Navigate into the project directory.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Copy code   
+`cd your-repo-name`   
+Install dependencies.
+ 
+Copy code   
+`npm install` / `yarn`   
+Run the application.
 
-## Running end-to-end tests
+Copy code   
+`ng serve`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Usage   
+Access the application in your browser at http://localhost:4200.   
+Fill in the form to add a new user.   
+View, edit, or delete existing users from the table.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Tech Stack
+>**Angular 13**   
+>**HTML/CSS**   
+>**TypeScript**   
+
+
+## Contributing   
+Contributions are welcome! Feel free to open issues or submit pull requests. Suggestions are welcomed.
+
+
+## Contributing
+🎉 Contributions and Suggestions Welcome!
+
+If you have any ideas to improve this project, encountered issues, or wish to contribute enhancements, please consider the following options:
+
+## Opening Issues
+Found a bug or have a feature request? Please open an issue to describe the problem or propose your idea. Be sure to provide relevant details, such as steps to reproduce any bugs.
+
+## Pull Requests
+We'd love your help in enhancing this project! If you've made improvements and wish to share them:
+
+>Fork the repository and `create your branch (git checkout -b my-amazing-feature)`.   
+   
+>Commit your changes with descriptive messages `(git commit -am 'Added a new feature')`.   
+
+>Push to the branch `(git push origin my-amazing-feature)`.   
+
+>Open a pull request detailing the changes made and any relevant information.   
+
+## Suggestions and Feedback
+
+Do you have any suggestions, feedback, or questions about the project? Feel free to reach out or open a discussion in the repository. Your input is highly valued and helps in making this project better for everyone.
+
+Your involvement in improving this project is greatly appreciated!
